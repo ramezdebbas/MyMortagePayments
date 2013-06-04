@@ -1,0 +1,25 @@
+﻿
+
+.loan div {
+	border: 1px solid #999;
+	margin: 1px;
+}
+
+.loan .loan_src {
+	float: left;
+	width: 436px;
+	height: 300px;
+}
+
+.loan .loan_pmt {
+	float: left;
+	width: 236px;
+	height: 300px;
+}
+
+.loan .loan_out {
+	clear: both;
+	overflow: auto;
+	width: 576px;
+	height: 380px;
+}
